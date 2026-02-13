@@ -1,0 +1,103 @@
+.header
+{
+    background-color: red;
+    color: black;
+    padding: 10px;
+}
+.fontheader
+{
+    background-color: white;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    border-radius: 30px;
+}
+.p1
+{
+    font-size: 20px;
+}
+.option
+{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0%;
+    justify-content: center;
+} 
+ li.menu
+{
+    padding: 10px 20px;
+    background-color:white;
+    color: black;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+li.menu:hover
+{
+    background-color: red;
+    cursor: pointer;
+}
+.Introduction
+{
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+}
+#pintro
+{
+    font-size: large;
+    padding: 20px;
+}
+#h2intro
+{
+    text-decoration: underline;
+   padding: 20px;
+}
+.gdiv1
+{
+    background-color: red;
+    width: 22%;
+    height: auto;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+   .galeryimg
+{
+    width: 300px;
+    height: 250px;
+    padding-top: 50px;
+}
+ .div2
+ {
+    background-color: white;
+    width: auto;
+    height: auto;
+    margin-left: 10%;
+    border-radius: 30px;
+    padding-top: 20px;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+.galerytext
+{
+    text-decoration: underline;
+
+}
+.div4
+{
+    display:grid;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: 300px 600px;
+    background-color:red;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    border-radius: 30px;
+    padding-top: 20px;
+    margin-top: 20px;
+    gap: 20px;
+    font-size: larger;
+}
